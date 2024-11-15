@@ -1,1 +1,1 @@
-Look to ArchLinuxinstall.md for steps
+Look to Installing ARCH Documentation for steps
